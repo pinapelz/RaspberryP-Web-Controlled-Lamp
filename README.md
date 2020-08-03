@@ -19,4 +19,6 @@ cd  var/www/html
 5. Delete the index.html file and create a new index.php file
 6. Paste in the code within the index.php file above
 7. Use ifconfig to check your IP Address and then you will see the UI appear on screen
+8. Wire the relay and the lamp to your raspberry pi (default pin is 27) use an online chart to locate the GPIO equivalent.
 ### Make sure you are connected to the same network as the Raspberry Pi
+
