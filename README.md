@@ -1,4 +1,4 @@
-# RaspberryP-Web-Controlled-Lamp
+# RaspberryPi-Web-Controlled-Lamp
 A Raspberry Pi controlled lamp using a relay with the interface being hosted on LAN and assessed through the IP address ui. The code uses wiringPi to control the onboard GPIO. The on/off switch code is acsessed through the web interface hosted using Apache and PHP.
 
 ## Installation
